@@ -10,8 +10,8 @@
 <!-- <a href="https://instagram.com/sajijubi2423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajijubi2423" height="30" width="40" /></a>
 </p> -->
 
-<p align="left">
-<a href="https://linkedin.com/in/sajida-na-5a5b56412" target="blank">
+
+<a href="https://linkedin.com/in/sajida-na-5a5b56412" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Linkedin.svg" alt="linkedin" height="30" width="40" />
 </a>
 </p>
