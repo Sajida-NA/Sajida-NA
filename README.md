@@ -14,11 +14,7 @@
 
 
 <a href="https://linkedin.com/in/sajida-na-5a5b56412" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Linkedin.svg" height="30" width="40"/>
-</a>
-
-<a href="mailto:sajida.tech23@gmail.com">
-<img src="https://img.icons8.com/fluency/48/gmail-new.png" height="30" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40"/>
 </a>
 
 </p>
