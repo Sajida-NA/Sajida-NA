@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sajida NA</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Django,Flask**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **sajida.tech23@gmail.com**
 
