@@ -1,16 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Sajida%20N.A&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Django%20%7C%20AI&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Sajida;Full+Stack+Developer+%F0%9F%92%BB;React.js+%7C+Django+%7C+PostgreSQL;Building+AI-Powered+Applications+%F0%9F%A4%96" alt="Typing SVG" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Sajida-NA&label=Profile%20Views&color=667eea&style=flat" alt="Profile Views"/>
+</p>
 
 </div>
 
-<h1 align="center">Hi 👋, I'm Sajida</h1>
-
-<h3 align="center">Full Stack Developer | React.js | Django | AI Integration</h3>
-
-<p align="center">
-  Passionate about building modern web applications and AI-powered solutions.
-</p>
 
 
 
