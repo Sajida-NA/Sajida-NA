@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sajida </h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **AI integration and building AI-powered CRM applications**
 
