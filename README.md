@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **AI integration and building AI-powered CRM applications**
 
-- 📫 How to reach me **sajida.tech23@gmail.com**
+- 📫 How to reach me **sajidanheruabdulla@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
