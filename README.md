@@ -1,26 +1,132 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Sajida </h1>
-<h3 align="center">Full Stack Developer</h3>
+# Hi 👋, I'm Sajida 
 
-- 🌱 I’m currently learning **AI integration and building AI-powered CRM applications**
+### 💻 Full Stack Developer
 
-- 📫 How to reach me **sajidanheruabdulla@gmail.com**
+Building modern, responsive, and user-focused web applications.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://instagram.com/sajijubi2423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajijubi2423" height="30" width="40" /></a>
-</p> -->
+<br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React.js+%7C+Next.js+%7C+JavaScript;Python+%7C+Django+%7C+REST+APIs;PostgreSQL+%7C+JWT+%7C+API+Integration;Building+Modern+Web+Applications" alt="Typing SVG" />
 
+<br/>
 
 
-<a href="https://linkedin.com/in/sajida-na-5a5b56412" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40"/>
+
+
+<a href="https://sajida-portfolio-five.vercel.app/" target="_blank">
+  <img height="40" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 
 
+
+
+ <a href="https://www.linkedin.com/in/sajida-nheru-abdulla">
+  <img height="40" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+
+  <a href="mailto:sajida.tech23@gmail.com">
+    <img height="40" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ </p>
+
+
+<!-- <p align="center">
+  <a href="https://www.linkedin.com/in/sajida-nheru-abdulla">
+    <img height="40" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:sajida.tech23@gmail.com">
+    <img height="40" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/Sajida-NA">
+    <img height="40" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="YOUR-PORTFOLIO-VERCEL-URL">
+    <img height="40" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</p> -->
+
+<br/>
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+I'm a **Full Stack Developer** passionate about building modern, responsive, and user-friendly web applications.
+
+* 💻 Focused on **frontend and backend development**
+* ⚛️ Experienced with **React.js, Next.js, and JavaScript**
+* 🐍 Working with **Python, Django, and REST APIs**
+* 👥 Team Lead experience in a **collaborative CRM project**
+* 🚀 Always learning and improving my development skills
+* 🌱 Interested in building **practical, real-world applications**
+* 💼 Open to **Full Stack Developer opportunities**
+
+---
+
+## 🛠️ Tech Stack
+
+<h3 align="center">Frontend</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,bootstrap,tailwind,materialui&perline=9" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a><a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<h3 align="center">Backend</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs&perline=4" />
+</p>
+
+<h3 align="center">Database</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql&perline=2" />
+</p>
+
+<h3 align="center">Tools & Platforms</h3>
+
+<p align="center">
+ &nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,vercel,render&perline=7" />
+</p>
+
+
+
+## 🚀 Featured Projects
+
+### CRM Management System
+**Full Stack Application · Team Lead**
+
+Business-focused CRM platform for managing leads, companies, deals, tickets and customer activities.
+
+Highlights: Lead conversion · Sales dashboard · JWT authentication · Twilio calling · AI summaries · Team coordination
+
+Tech: React.js · Material UI · Django · DRF · PostgreSQL · JWT · Twilio
+
+
+### E-Commerce Platform
+**Full Stack Web Application**
+
+Responsive e-commerce platform with product management, authentication and REST API integration.
+
+Highlights: Product management · JWT authentication · REST APIs · Responsive UI
+
+Tech: React.js · Bootstrap · Python · Django · PostgreSQL
+
+
+
+## 🤝 Let's Connect
+<div align="center">
+
+Open to opportunities, collaborations, and interesting software projects.
+
+<br/>
+
+<p align="center"> <a href="https://www.linkedin.com/in/sajida-nheru-abdulla"><img height="200" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;<a href="mailto:sajida.tech23@gmail.com"><img height="40" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://github.com/Sajida-NA"><img height="40" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> </p>
+
+### Build · Solve · Deliver · Grow
+
+</div>
+
