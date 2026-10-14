@@ -15,9 +15,7 @@ Building modern, responsive, and user-focused web applications.
 
 
 
-<a href="https://sajida-portfolio-five.vercel.app/" target="_blank">
-  <img height="40" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-</a>
+
 
 
 
