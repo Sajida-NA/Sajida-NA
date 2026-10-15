@@ -24,8 +24,13 @@ Building modern, responsive, and user-focused web applications.
   <img height="40" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
-  <a href="mailto:sajida.tech23@gmail.com">
-    <img height="40" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:sajidanheruabdulla@gmail.com">
+<img height="35" src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+
+
+ 
  </p>
 
 
